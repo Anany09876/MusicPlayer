@@ -53,10 +53,10 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
 » **ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ​**
-» ʀᴇᴘᴏsɪᴛᴏʀʏ : [GitHub](https://github.com/AnonymousBoy1025/MusicPlayer)
+» ʀᴇᴘᴏsɪᴛᴏʀʏ : [GitHub](https://github.com/AnonymousBo)
 » ʟɪᴄᴇɴsᴇ : AGPL-3.0-or-later
 
-» ᴏᴡɴᴇʀ : [ ‌ٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖ𓆩🖤𓆪ــــﮩــ٨ﮩﮩ𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦💔𝗕𝗢𝗬ﮩﮩ٨ــﮩــــ𓆩🖤𓆪 ‌ٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖ](telegram.me/anonymous_was_bot)
+» ᴏᴡɴᴇʀ : [ ‌ٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖ𓆩🖤𓆪ــــﮩــ٨ﮩﮩ𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦💔𝗕𝗢𝗬ﮩﮩ٨ــﮩــــ𓆩🖤𓆪 ‌ٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖٜٖٖٖٖٖٖ](telegram.me/bot)
 """
 
 
